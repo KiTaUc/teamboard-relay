@@ -1,0 +1,1 @@
+import test from 'node:test';import assert from 'node:assert/strict';test('project config',()=>assert.ok('teamboard-relay'.length>3));

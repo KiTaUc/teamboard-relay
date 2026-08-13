@@ -1,0 +1,11 @@
+{
+  "name": "teamboard-relay",
+  "version": "1.0.0",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test",
+    "check": "node --check server.mjs && node --check public/app.js"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "repository": "teamboard-relay",
+  "title": "Teamboard Relay",
+  "description": "Локальная доска задач команды: роли, статусы, история и передача контекста.",
+  "topics": [
+    "kanban",
+    "teamwork",
+    "productivity",
+    "nodejs",
+    "javascript"
+  ]
+}
